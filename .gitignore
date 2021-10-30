@@ -1,0 +1,5 @@
+# Jetbrains configuration file
+.idea/
+
+# Library
+node_modules/
