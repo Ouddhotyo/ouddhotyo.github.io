@@ -50,7 +50,7 @@
 	width: 98vw;
 }
 
-.navbar, .container {
+.navbar, .container, .container-fluid {
 	font-family: 'Noto Serif Bengali', Lora, serif;
 }
 
@@ -122,4 +122,8 @@
 
 .transition-opacity-2000 {
 	transition: opacity 2000ms;
+}
+
+.transition-opacity-5000 {
+	transition: opacity 5000ms;
 }
